@@ -1,0 +1,99 @@
+Kod;İsim;Tip;SKT;Etiket
+000;ÜRÜNLER;AĞIRLIK;0;Varsayılan
+001;SOYMA BAKIR;AĞIRLIK;0;eyzuruntek.prn
+002;ANT KIRMA;AĞIRLIK;0;Varsayılan
+003;PTT KIRMA;AĞIRLIK;0;Varsayılan
+004;TTR KIRMA;AĞIRLIK;0;Varsayılan
+005;LAMA KIRMA;AĞIRLIK;0;Varsayılan
+006;KIRKAMBAR BAKIR;AĞIRLIK;0;Varsayılan
+007;ARAİŞ MS70;AĞIRLIK;0;Varsayılan
+008;ARAİŞ MS64;AĞIRLIK;0;Varsayılan
+009;ÇUBUK SARI;AĞIRLIK;0;Varsayılan
+010;KIRKAMBAR SARI;AĞIRLIK;0;Varsayılan
+011;FOSFOR BRONZ;AĞIRLIK;0;Varsayılan
+012;KIZIL PARÇA;AĞIRLIK;0;Varsayılan
+013;KIZIL TALAŞ;AĞIRLIK;0;Varsayılan
+014;AL BRONZ;AĞIRLIK;0;Varsayılan
+015;RADYATÖR;AĞIRLIK;0;Varsayılan
+016;KURŞUN;AĞIRLIK;0;Varsayılan
+017;NİKEL;AĞIRLIK;0;Varsayılan
+018;KALAY;AĞIRLIK;0;Varsayılan
+019;TERMİNAL;AĞIRLIK;0;Varsayılan
+020;MANGAN BRONZ;AĞIRLIK;0;Varsayılan
+021;KROM 304;AĞIRLIK;0;Varsayılan
+022;KROM 316;AĞIRLIK;0;Varsayılan
+023;ALPAKA;AĞIRLIK;0;Varsayılan
+024;AMKO;AĞIRLIK;0;Varsayılan
+025;ALUMİNYUM ARAİŞ;AĞIRLIK;0;Varsayılan
+026;ALUMİNYUM MATBA;AĞIRLIK;0;Varsayılan
+027;KABLO;AĞIRLIK;0;Varsayılan
+028;KABLO DEŞE;AĞIRLIK;0;Varsayılan
+029;BAKIRLI ALM PETEL;AĞIRLIK;0;Varsayılan
+030;ÇİNKO;AĞIRLIK;0;Varsayılan
+031;KALIN BAKIR;AĞIRLIK;0;Varsayılan
+032;TEMİZ BORU BAKIR;AĞIRLIK;0;Varsayılan
+033;BAKIR TALAŞ;AĞIRLIK;0;Varsayılan
+034;KIRMIZI BAFON;AĞIRLIK;0;Varsayılan
+035;BEYAZ BAFON;AĞIRLIK;0;Varsayılan
+036;ŞOFBEN;AĞIRLIK;0;Varsayılan
+037;TİTANYUM;AĞIRLIK;0;Varsayılan
+038;İADE;AĞIRLIK;0;Varsayılan
+039;YAĞLI DEŞE;AĞIRLIK;0;Varsayılan
+040;DEMİR;AĞIRLIK;0;Varsayılan
+041;KÜLÇE BAKIR;AĞIRLIK;0;Varsayılan
+042;ALAŞIMLI TALAŞ;AĞIRLIK;0;Varsayılan
+043;KARIŞIK KIRMA;AĞIRLIK;0;Varsayılan
+044;KALAYLI LAMA;AĞIRLIK;0;Varsayılan
+045;KALAYLI SOYMA;AĞIRLIK;0;Varsayılan
+046;BOYALI LAMA;AĞIRLIK;0;Varsayılan
+047;PETEK KIRMA;AĞIRLIK;0;Varsayılan
+048;10SN PARÇA;AĞIRLIK;0;Varsayılan
+049;ÇUBUK TALAŞ;AĞIRLIK;0;Varsayılan
+050;RAMAT;AĞIRLIK;0;Varsayılan
+051;GEMİ SARI;AĞIRLIK;0;Varsayılan
+052;FABRİKA KIRMIZI;AĞIRLIK;0;Varsayılan
+053;Urun53;AĞIRLIK;0;Varsayılan
+054;Urun54;AĞIRLIK;0;Varsayılan
+055;Urun55;AĞIRLIK;0;Varsayılan
+056;Urun56;AĞIRLIK;0;Varsayılan
+057;Urun57;AĞIRLIK;0;Varsayılan
+058;Urun58;AĞIRLIK;0;Varsayılan
+059;Urun59;AĞIRLIK;0;Varsayılan
+060;Urun60;AĞIRLIK;0;Varsayılan
+061;Urun61;AĞIRLIK;0;Varsayılan
+062;Urun62;AĞIRLIK;0;Varsayılan
+063;Urun63;AĞIRLIK;0;Varsayılan
+064;Urun64;AĞIRLIK;0;Varsayılan
+065;Urun65;AĞIRLIK;0;Varsayılan
+066;Urun66;AĞIRLIK;0;Varsayılan
+067;Urun67;AĞIRLIK;0;Varsayılan
+068;Urun68;AĞIRLIK;0;Varsayılan
+069;Urun69;AĞIRLIK;0;Varsayılan
+070;Urun70;AĞIRLIK;0;Varsayılan
+071;Urun71;AĞIRLIK;0;Varsayılan
+072;Urun72;AĞIRLIK;0;Varsayılan
+073;Urun73;AĞIRLIK;0;Varsayılan
+074;Urun74;AĞIRLIK;0;Varsayılan
+075;Urun75;AĞIRLIK;0;Varsayılan
+076;Urun76;AĞIRLIK;0;Varsayılan
+077;Urun77;AĞIRLIK;0;Varsayılan
+078;Urun78;AĞIRLIK;0;Varsayılan
+079;Urun79;AĞIRLIK;0;Varsayılan
+080;Urun80;AĞIRLIK;0;Varsayılan
+081;Urun81;AĞIRLIK;0;Varsayılan
+082;Urun82;AĞIRLIK;0;Varsayılan
+083;Urun83;AĞIRLIK;0;Varsayılan
+084;Urun84;AĞIRLIK;0;Varsayılan
+085;Urun85;AĞIRLIK;0;Varsayılan
+086;Urun86;ADET;0;Varsayılan
+087;Urun87;ADET;0;Varsayılan
+088;Urun88;ADET;0;Varsayılan
+089;Urun89;ADET;0;Varsayılan
+090;Urun90;ADET;0;Varsayılan
+091;Urun91;ADET;0;Varsayılan
+092;Urun92;ADET;0;Varsayılan
+093;Urun93;ADET;0;Varsayılan
+094;Urun94;ADET;0;Varsayılan
+095;Urun95;ADET;0;Varsayılan
+096;Urun96;ADET;0;Varsayılan
+097;Urun97;ADET;0;Varsayılan

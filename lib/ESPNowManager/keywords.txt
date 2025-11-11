@@ -1,0 +1,75 @@
+#######################################
+# Syntax Coloring Map For ESPNowManager
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESPNowManager	KEYWORD1
+ESPNowWebEndpoints	KEYWORD1
+EspNowMessage	KEYWORD1
+DataEntry	KEYWORD1
+PeerStatus	KEYWORD1
+MessageCallback	KEYWORD1
+PeerStatusCallback	KEYWORD1
+LogCallback	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+end	KEYWORD2
+onMessage	KEYWORD2
+onPeerStatusChange	KEYWORD2
+onLog	KEYWORD2
+startPairing	KEYWORD2
+startAutoPairing	KEYWORD2
+stopPairing	KEYWORD2
+isPairingActive	KEYWORD2
+sendPairRequest	KEYWORD2
+sendPairAccept	KEYWORD2
+sendPairReject	KEYWORD2
+startDiscovery	KEYWORD2
+stopDiscovery	KEYWORD2
+getDiscoveredDeviceCount	KEYWORD2
+getDiscoveredDevice	KEYWORD2
+clearDiscoveredDevices	KEYWORD2
+addPeer	KEYWORD2
+removePeer	KEYWORD2
+getPairedDeviceCount	KEYWORD2
+getPairedDevice	KEYWORD2
+isPaired	KEYWORD2
+clearPairedDevices	KEYWORD2
+sendMessage	KEYWORD2
+sendBroadcast	KEYWORD2
+sendCommand	KEYWORD2
+addData	KEYWORD2
+getDataCount	KEYWORD2
+getData	KEYWORD2
+clearData	KEYWORD2
+updatePeerStatus	KEYWORD2
+getPeerStatus	KEYWORD2
+getActivePeerCount	KEYWORD2
+getMacAddress	KEYWORD2
+macToString	KEYWORD2
+printPairedDevices	KEYWORD2
+printDiscoveredDevices	KEYWORD2
+getLastRSSI	KEYWORD2
+getPairedDevicesJSON	KEYWORD2
+getDiscoveredDevicesJSON	KEYWORD2
+getPeerStatusJSON	KEYWORD2
+getDataJSON	KEYWORD2
+setChannel	KEYWORD2
+setMaxPeers	KEYWORD2
+setDataBufferSize	KEYWORD2
+handle	KEYWORD2
+setupEndpoints	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+MAX_PAIRED_DEVICES	LITERAL1
+MAX_DATA_ENTRIES	LITERAL1
